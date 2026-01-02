@@ -39,7 +39,27 @@
 ## 🔗 Connect With Me
 📸 Instagram: [@404Dev.NotFound](https://www.instagram.com/404dev.notfound/?next=%2Fscriptedbydev%2F)
 
-📧 Gmail: scriptedByDev@gmail.com
+📧 Gmail: scriptedByDev@gmail.com 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
