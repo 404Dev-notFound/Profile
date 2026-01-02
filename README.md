@@ -41,28 +41,6 @@
 
 📧 Gmail: scriptedByDev@gmail.com 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # ⚠️ This profile is under continuous development
 
 
