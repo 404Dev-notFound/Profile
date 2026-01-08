@@ -29,4 +29,19 @@
 
 💻 Dev & Deployment
 
-🌐 Web & 
+🌐 Web & Fun
+
+
+## 📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=404Dev-NotFound&show_icons=true&theme=radical" width="45%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=404Dev-NotFound&theme=radical&hide_border=true" width="45%" /> </p>
+
+
+## 🔗 Connect With Me
+📸 Instagram: [@404Dev.NotFound](https://www.instagram.com/404dev.notfound/?next=%2Fscriptedbydev%2F)
+
+📧 Gmail: scriptedByDev@gmail.com 
+
+# ⚠️ This profile is under continuous development
+
+
+---
